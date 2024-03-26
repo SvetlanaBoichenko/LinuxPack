@@ -8,7 +8,7 @@
 Для установки РНР необходимо ввсести команду sudo aрt install php
 
 
-![пример установки PHP](![image](https://github.com/SvetlanaBoichenko/LinuxPack/assets/160069590/9833affc-f161-4b64-8668-5cfb31d7252b)
+![пример установки PHP] (![image](https://github.com/SvetlanaBoichenko/LinuxPack/assets/160069590/9833affc-f161-4b64-8668-5cfb31d7252b)
 )
 
 
