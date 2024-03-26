@@ -14,14 +14,14 @@ sudo aрt install php
 
 так как в этом случае устанока будет производится в системную директорию.
 
-[Пример установки PHP](https://github.com/SvetlanaBoichenko/LinuxPack/assets/160069590/9833affc-f161-4b64-8668-5cfb31d7252b)
+![Пример установки PHP](https://github.com/SvetlanaBoichenko/LinuxPack/assets/160069590/9833affc-f161-4b64-8668-5cfb31d7252b)
 
 Для удаления пакета используют команду apt remove <имя пакета>
 
 Во избежании ошибок перед установкой необходимо обновить список пакетов и их индексы с помщью команды:
 sudo apt update
 
-![Обновление списка пакетов] (https://github.com/SvetlanaBoichenko/LinuxPack/assets/160069590/350efe85-b9b8-45bc-b1a8-56827e2ec3d8)
+![Обновление списка пакетов](https://github.com/SvetlanaBoichenko/LinuxPack/assets/160069590/350efe85-b9b8-45bc-b1a8-56827e2ec3d8)
 
 
 ## Утилита tree
