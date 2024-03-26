@@ -18,5 +18,9 @@
 
 
 #Утилита tree
+Утилита tree является удобным инструментом для простмотра каталогов
 ![Установка утилиты tree](https://github.com/SvetlanaBoichenko/LinuxPack/assets/160069590/0dcf6f11-8f10-435a-93f5-d8ef23b50ea6)
 
+Для запуска утилиты достаточно зайти в нужный каталог, набрать имя и нажать Enter
+
+![Пример работы](https://github.com/SvetlanaBoichenko/LinuxPack/assets/160069590/a6874b85-cdf6-42bc-bc13-7e27ef0b9e3f)
