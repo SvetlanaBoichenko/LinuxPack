@@ -40,3 +40,8 @@ sudo apt update
 
 man tree
 
+## Файловый менеджер midnight commander (mc)
+Устaновка программы mc также выполняется с помощью пакетного менеджерв apt
+sudo apt-get install mc
+
+![image](https://github.com/SvetlanaBoichenko/LinuxPack/assets/160069590/52e1a7c1-e9f8-4511-8045-b8ede1b451f1)
