@@ -14,7 +14,7 @@ sudo aрt install php
 
 так как в этом случае устанока будет производится в системную директорию.
 
-![Пример установки PHP](https://github.com/SvetlanaBoichenko/LinuxPack/assets/160069590/9833affc-f161-4b64-8668-5cfb31d7252b)
+[Пример установки PHP](https://github.com/SvetlanaBoichenko/LinuxPack/assets/160069590/9833affc-f161-4b64-8668-5cfb31d7252b)
 
 Для удаления пакета используют команду apt remove <имя пакета>
 
