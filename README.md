@@ -21,17 +21,22 @@ sudo aрt install php
 Во избежании ошибок перед установкой необходимо обновить список пакетов и их индексы с помщью команды:
 sudo apt update
 
-![Обновление списка пакетов](https://github.com/SvetlanaBoichenko/LinuxPack/assets/160069590/350efe85-b9b8-45bc-b1a8-56827e2ec3d8)
+![Обновление списка пакетов] (https://github.com/SvetlanaBoichenko/LinuxPack/assets/160069590/350efe85-b9b8-45bc-b1a8-56827e2ec3d8)
 
 
 ## Утилита tree
 
 Утилита tree является удобным инструментом для просмотра каталогов.
 
-Установка утилиты выглядит так
+Установка утилиты выглядит так:
 
 ![Установка утилиты tree](https://github.com/SvetlanaBoichenko/LinuxPack/assets/160069590/0dcf6f11-8f10-435a-93f5-d8ef23b50ea6)
 
 Для запуска утилиты достаточно зайти в нужный каталог, набрать имя и нажать Enter
 
 ![Пример работы](https://github.com/SvetlanaBoichenko/LinuxPack/assets/160069590/a6874b85-cdf6-42bc-bc13-7e27ef0b9e3f)
+
+Для просмотра описания утилиты tree необходимо выполнить
+
+man tree
+
