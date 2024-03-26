@@ -15,7 +15,7 @@
 Для избежания ошибок перед установкой необходимо обновить список пакетов и их индексы
 Команда sudo atp update
 
-![Установка РНР] (![image](https://github.com/SvetlanaBoichenko/LinuxPack/assets/160069590/350efe85-b9b8-45bc-b1a8-56827e2ec3d8)
-) 
+![Установка РНР] (https://github.com/SvetlanaBoichenko/LinuxPack/assets/160069590/350efe85-b9b8-45bc-b1a8-56827e2ec3d8)
 
-Для избежания ошибок перед установкой необходимо обновить список пакетов и их индексы
+
+
